@@ -3,6 +3,7 @@
 
 # Introduction 
 "Data Analysis: Investigating Netflix Movies" is a project made by Datacamp to help us apply from both of the course "Introduction Python" and "Intermediate Python"
+[Link text]([https://website-name.com](https://app.datacamp.com/learn/projects/investigating_netflix/guided/Python))
 ### Situation:
 We want to do some research on movies released in the 1990's. Datacamp has provided us with a dataset. We will explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from this decade.
 # The data :**netflix_data.csv** 
@@ -21,4 +22,4 @@ We want to do some research on movies released in the 1990's. Datacamp has provi
 | description  | Description of the show         |
 | genre        | Show genre                      |
 
-### This project is aimed at self-learning, with detailed steps written in the Jupyter Notebook file. In this project, I will use both English and Vietnamese to review in the future.
+This project is aimed at self-learning, with detailed steps written in the Jupyter Notebook file. In this project, I will use both English and Vietnamese to review in the future.
