@@ -1,2 +1,2 @@
 # Neflix_Project_DataCamp
-<img width="30px" src="[./media/images/image_name.png](https://cellphones.com.vn/sforum/wp-content/uploads/2021/06/d80646d0-4429-11eb-9dce-47010f84228e.jpg)" alt="image_name png" />
+<img src='blob:https://www.datacamp.com/1f2a167a-8171-4c3b-bf0e-109db3af8058' width=60%>
