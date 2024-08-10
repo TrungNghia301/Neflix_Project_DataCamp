@@ -1,2 +1,2 @@
 # Neflix_Project_DataCamp
-<img src='blob:https://www.datacamp.com/1f2a167a-8171-4c3b-bf0e-109db3af8058' width=60%>
+<img src='https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png' width=60%>
